@@ -1,0 +1,22 @@
+input[type=email],[type=password] textarea 
+{
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border-radius: 4px;
+}
+#button{
+    width: 100px;
+    height: 30px;
+    border-radius: 5px;
+    background-color: #1f2484;
+}
+
+
+#button:hover{
+    background-color: #6e74e9;
+    width: 100%;
+}
+
+
